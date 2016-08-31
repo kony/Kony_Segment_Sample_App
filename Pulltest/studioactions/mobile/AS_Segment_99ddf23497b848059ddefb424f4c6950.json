@@ -1,0 +1,24 @@
+{
+    "AS_Segment_99ddf23497b848059ddefb424f4c6950": {
+        "id": "AS_Segment_99ddf23497b848059ddefb424f4c6950",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MailForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e24b3283ca99448bb46fbf5708912e53"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__1f6ab7ae5b9c4069b770e7eab5e7e2f0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//alert(\"why did u pull me down\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

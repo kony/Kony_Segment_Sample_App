@@ -1,0 +1,343 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon1.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fashionista"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Choose your credit card"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Choose your credit card"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 25"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon3.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pooja Property"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "your Ad expires today"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "To ensure delivery to your"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 25"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon2.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "gauhar Funds"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Saving is just a tap away"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Logo OLA share OLA"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 24"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon4.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "500Px"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "That's amazing?"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "That's amazing 500 dollars"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 24"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon3.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Pranay Enterprise"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Best deals for limited time"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Report Spam|view in browser"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 24"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon2.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Ganga Property"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Neha vashish has viewed"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "To ensure delivery to your"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 23"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        },
+        {
+            "Image01": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon1.png"
+            },
+            "Image02": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "option1.png"
+            },
+            "Label01": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Fahan Property"
+            },
+            "Label02": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Sanchita jha has viewed"
+            },
+            "Label03": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "To ensure delivery to your"
+            },
+            "Label04": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Feb 23"
+            },
+            "btnCancel": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Cancel"
+            },
+            "btnDelete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Delete"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "06",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "MailRows",
+    "ide_onPull": "AS_Segment_99ddf23497b848059ddefb424f4c6950",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f5c5170097274dbd989e8ecb4755c00c",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageOffDot.png",
+    "pageondotimage": "pageOnDot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "MailForm",
+    "pf": "MailForm",
+    "retainselection": false,
+    "rowTemplateId": "6354e9b577a447aea680aaaa73a303fb",
+    "rowcounter": 6,
+    "rowfocusskin": "s312c72d988e40f19e18849761460e2f",
+    "rowskin": "s45812b79bca478988bfbcf4fe62e739",
+    "rowtemplate": "FlexContainer0a902b761533d41",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s29fca6829f444d7bb6dbcc2f0616a22",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "c7c7c700",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0a902b761533d41": "FlexContainer0a902b761533d41",
+        "Image01": "Image01",
+        "Image02": "Image02",
+        "Label01": "Label01",
+        "Label02": "Label02",
+        "Label03": "Label03",
+        "Label04": "Label04",
+        "btnCancel": "btnCancel",
+        "btnDelete": "btnDelete",
+        "flexAnimate": "flexAnimate"
+    }
+}

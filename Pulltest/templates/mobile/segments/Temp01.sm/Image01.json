@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "61dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbab2381f6444864b3d1065b553ff28d",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "platform": "iphone",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "Image01",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "592e6d5514794f79bfc2764e8b611752",
+    "name": "kony.ui.Image2",
+    "parent": "flexAnimate",
+    "pf": "Temp01",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

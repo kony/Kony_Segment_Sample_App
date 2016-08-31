@@ -1,0 +1,26 @@
+{
+    "AS_Form_21e7252e871946b48d20c120e15a516b": {
+        "id": "AS_Form_21e7252e871946b48d20c120e15a516b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form2",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2085f804ff3f42fd8b8f2baae602c3ca"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2dce8fc086cd457db97b05f281d34ab5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "GestueHandlerfrm2",
+            "display": "GestueHandlerfrm2",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

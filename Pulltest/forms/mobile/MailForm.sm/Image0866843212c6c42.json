@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "29dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbab2381f6444864b3d1065b553ff28d",
+    "_src_": "icon5.png",
+    "_top_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "MailForm",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image0866843212c6c42",
+    "imagescalemode": 0,
+    "info": null,
+    "isvisible": true,
+    "kuid": "f5c9b30210224deb8826f4d81a047ebc",
+    "name": "kony.ui.Image2",
+    "parent": "Header",
+    "pf": "MailForm",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

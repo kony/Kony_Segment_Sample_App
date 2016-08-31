@@ -1,0 +1,32 @@
+{
+    "AS_Button_9ee031c97cad4cc09007eaaba67bdfe2": {
+        "id": "AS_Button_9ee031c97cad4cc09007eaaba67bdfe2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "Temp08c6c6eb5d60f4a",
+            "type": "templates",
+            "platform": "",
+            "KUID": "a412ef27ce774f7fa03ff3418a5e6442"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e119d41d150e4efb8733ab211ee55f3c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "deleteRowfrm",
+            "display": "deleteRowfrm",
+            "inputparams": [{
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

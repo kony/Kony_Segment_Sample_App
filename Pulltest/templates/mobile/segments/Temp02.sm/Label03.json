@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa4480dfa22f4a8db41c920cad318413",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label03",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "b5c6a3b2da944fddaa1fd1a616e1becc",
+    "name": "kony.ui.Label",
+    "parent": "flexAnimate",
+    "pf": "Temp02",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

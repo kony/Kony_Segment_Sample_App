@@ -1,0 +1,31 @@
+{
+    "AS_Button_0c733f8e4cc04604836c537b3be27ae3": {
+        "id": "AS_Button_0c733f8e4cc04604836c537b3be27ae3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "Temp02",
+            "type": "templates",
+            "KUID": "6354e9b577a447aea680aaaa73a303fb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7218be24169f4a10a21c114be8c58900",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cancelDelete",
+            "display": "cancelDelete",
+            "inputparams": [{
+                "name": "context",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
